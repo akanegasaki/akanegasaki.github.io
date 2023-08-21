@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /about/
+Allow: /quotes/
+
+Sitemap: https://akanegasaki.github.io/sitemap.xml
