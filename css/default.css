@@ -412,7 +412,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Noto Serif CJK SC', STSong, SimSun, 'Hiragino Mincho ProN', serif;
+  font-family: 'Noto Serif CJK SC', STSong, SimSun, serif;
 }
 code,
 pre {
@@ -1064,13 +1064,13 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: 'Noto Serif CJK SC', STSong, SimSun, 'Hiragino Mincho ProN', serif !important;
+  font-family: 'Noto Serif CJK SC', STSong, SimSun, serif !important;
 }
 .is-family-secondary {
-  font-family: 'Noto Serif CJK SC', STSong, SimSun, 'Hiragino Mincho ProN', serif !important;
+  font-family: 'Noto Serif CJK SC', STSong, SimSun, serif !important;
 }
 .is-family-sans-serif {
-  font-family: 'Noto Serif CJK SC', STSong, SimSun, 'Hiragino Mincho ProN', serif !important;
+  font-family: 'Noto Serif CJK SC', STSong, SimSun, serif !important;
 }
 .is-family-monospace {
   font-family: monospace !important;
@@ -1512,7 +1512,7 @@ a.has-text-grey-lightest:focus {
   content: "\0227B";
 }
 .card {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.92);
   box-shadow: 0 4px 10px rgba(0,0,0,0.9), 0 0 16px #fff;
   color: #4a4a4a;
   max-width: 100%;
@@ -10244,7 +10244,7 @@ fieldset[disabled] .select select:hover {
   }
 }
 .footer {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.92);
   padding: 3rem 1.5rem 6rem;
 }
 html {
@@ -11053,7 +11053,7 @@ footer.footer .level-end .field {
   width: 0.75rem;
   top: calc(1rem + 1.5 * 0.85rem / 2 + 0.75rem / 2);
   bottom: 0;
-  background: #fff;
+  background: rgba(255,255,255,0.92);
 }
 .timeline .media:first-child:last-child:after {
   top: calc(1.5 * 0.85rem / 2 + 0.75rem / 2);
@@ -11582,7 +11582,7 @@ figure.highlight .section {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: 'Noto Serif CJK SC', STSong, SimSun, 'Hiragino Mincho ProN', serif !important;
+  font-family: 'Noto Serif CJK SC', STSong, SimSun, serif !important;
 }
 .cc-window {
   color: #4a4a4a !important;
